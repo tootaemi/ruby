@@ -1,4 +1,5 @@
 hand = "グー"
+
 if hand == "グー"
   puts "出した手はグーです"
 end
@@ -9,4 +10,4 @@ end
 
 if (hand == "グー") || (hand == "パー")
   puts "出した手はグーまたはパーです"
- end　
+end　
